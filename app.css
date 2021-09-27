@@ -1,12 +1,13 @@
 body {
 	margin: 0;
 	padding: 0;
+	text-align: center;
 	background-color: azure;
 }
 h1{
 	text-align: center;
 }
 .container{
-	color: whitesmoke;
+	color: cornflowerblue;
 }
 		
